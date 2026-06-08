@@ -68,7 +68,7 @@ This project is a **professional Phishing Awareness Training Module** developed 
 
 | File | Description |
 |------|-------------|
-| [`Phishing_Awareness_Training.pptx`](./Phishing_Awareness_Training.pptx) | Full PowerPoint presentation (10 slides) |
+| [`Phishing_Awareness_Training.pptx`](./Phishing_Awareness_Training.pdf) | Full PowerPoint presentation (10 slides) |
 
 > Compatible with **Microsoft PowerPoint**, **Google Slides**, and **LibreOffice Impress**.
 
